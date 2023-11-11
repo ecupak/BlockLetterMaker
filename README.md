@@ -1,5 +1,7 @@
-Enter the text you want to 'blockify' in merged cell I1.
+## Summary
+Turns text ino a "blockified" message.
 
-Press the "Generate Text" button.
+Runs in Excel.
 
-Enjoy your blockified message.
+## Usage
+Enter your text in merged cell I1. Then, press the "Generate Text" button.
